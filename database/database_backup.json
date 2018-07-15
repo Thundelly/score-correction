@@ -1,0 +1,434 @@
+{
+    "100": {
+        "first_name": "Acasia",
+        "last_name": "Son",
+        "birth_date": "12-05-2000",
+        "grade": "10"
+    },
+    "101": {
+        "first_name": "Amie",
+        "last_name": "Shin",
+        "birth_date": "9-13-2001",
+        "grade": "11"
+    },
+    "102": {
+        "first_name": "Andrew",
+        "last_name": "Wee",
+        "birth_date": "3-03-2001",
+        "grade": "12"
+    },
+    "103": {
+        "first_name": "Angie",
+        "last_name": "Oh",
+        "birth_date": "",
+        "grade": "College"
+    },
+    "104": {
+        "first_name": "Alex",
+        "last_name": "Roh",
+        "birth_date": "10-20-2006",
+        "grade": "5"
+    },
+    "105": {
+        "first_name": "Alejandra",
+        "last_name": "Allamilla",
+        "birth_date": "9-27-2001",
+        "grade": "11"
+    },
+    "106": {
+        "first_name": "Ashley",
+        "last_name": "Kim",
+        "birth_date": "12-30-2002",
+        "grade": "10"
+    },
+    "107": {
+        "first_name": "Aza",
+        "last_name": "Trillo",
+        "birth_date": "10-21-2002",
+        "grade": "11"
+    },
+    "108": {
+        "first_name": "Charles",
+        "last_name": "Hwang",
+        "birth_date": "",
+        "grade": "8"
+    },
+    "109": {
+        "first_name": "Christopher",
+        "last_name": "Oh",
+        "birth_date": "11-22-2000",
+        "grade": "11"
+    },
+    "110": {
+        "first_name": "Chris",
+        "last_name": "Nam",
+        "birth_date": "8-03-2001",
+        "grade": "11"
+    },
+    "111": {
+        "first_name": "Clare",
+        "last_name": "Lee",
+        "birth_date": "4-08-2001",
+        "grade": "10"
+    },
+    "112": {
+        "first_name": "Daeum",
+        "last_name": "Yoon",
+        "birth_date": "12-30-2000",
+        "grade": "11"
+    },
+    "113": {
+        "first_name": "Daniel",
+        "last_name": "Lee",
+        "birth_date": "2-19-1994",
+        "grade": "College"
+    },
+    "114": {
+        "first_name": "Dayeon",
+        "last_name": "Hwang",
+        "birth_date": "12-26-2000",
+        "grade": "11"
+    },
+    "115": {
+        "first_name": "Dohoon",
+        "last_name": "Lee",
+        "birth_date": "6-15-2005",
+        "grade": "7"
+    },
+    "116": {
+        "first_name": "Drew",
+        "last_name": "Baelly",
+        "birth_date": "12-16-2000",
+        "grade": "11"
+    },
+    "117": {
+        "first_name": "Edwin",
+        "last_name": "Pak",
+        "birth_date": "5-22-2000",
+        "grade": "12"
+    },
+    "118": {
+        "first_name": "Elisa",
+        "last_name": "Bae",
+        "birth_date": "1-17-2007",
+        "grade": "6"
+    },
+    "119": {
+        "first_name": "Ellie",
+        "last_name": "Kim",
+        "birth_date": "2-04-2003",
+        "grade": "9"
+    },
+    "120": {
+        "first_name": "Emilia",
+        "last_name": "Lee",
+        "birth_date": "9-04-2002",
+        "grade": "10"
+    },
+    "121": {
+        "first_name": "Esther",
+        "last_name": "Hwang",
+        "birth_date": "2-25-2001",
+        "grade": "11"
+    },
+    "122": {
+        "first_name": "Eric",
+        "last_name": "Kim",
+        "birth_date": "9-27-2001",
+        "grade": "10"
+    },
+    "123": {
+        "first_name": "Eugene",
+        "last_name": "Jung",
+        "birth_date": "",
+        "grade": "12"
+    },
+    "124": {
+        "first_name": "Francis",
+        "last_name": "Chu",
+        "birth_date": "12-11-2006",
+        "grade": "5"
+    },
+    "125": {
+        "first_name": "Frederick",
+        "last_name": "Chu",
+        "birth_date": "7-08-2001",
+        "grade": "11"
+    },
+    "126": {
+        "first_name": "Ian",
+        "last_name": "Lee",
+        "birth_date": "8-18-2005",
+        "grade": "6"
+    },
+    "127": {
+        "first_name": "Issac",
+        "last_name": "Kim",
+        "birth_date": "8-28-2001",
+        "grade": "11"
+    },
+    "128": {
+        "first_name": "Jay",
+        "last_name": "Cho",
+        "birth_date": "11-30-2000",
+        "grade": "11"
+    },
+    "129": {
+        "first_name": "Jay",
+        "last_name": "Kim",
+        "birth_date": "8-31-2002",
+        "grade": "10"
+    },
+    "130": {
+        "first_name": "Jennifer",
+        "last_name": "Yoon",
+        "birth_date": "11-30-2002",
+        "grade": "10"
+    },
+    "131": {
+        "first_name": "Jewoo",
+        "last_name": "Lee",
+        "birth_date": "",
+        "grade": "7"
+    },
+    "132": {
+        "first_name": "Jinyu",
+        "last_name": "Kim",
+        "birth_date": "3-01-2000",
+        "grade": "11"
+    },
+    "133": {
+        "first_name": "Jisung",
+        "last_name": "Lee",
+        "birth_date": "11-30-2005",
+        "grade": "7"
+    },
+    "134": {
+        "first_name": "Jonathan",
+        "last_name": "Kim",
+        "birth_date": "",
+        "grade": "11"
+    },
+    "135": {
+        "first_name": "Joowon",
+        "last_name": "Seo",
+        "birth_date": "",
+        "grade": "11"
+    },
+    "136": {
+        "first_name": "JosephT",
+        "last_name": "Lee",
+        "birth_date": "",
+        "grade": "12"
+    },
+    "137": {
+        "first_name": "Jongseok(Elvin)",
+        "last_name": "Lee",
+        "birth_date": "10-29-2003",
+        "grade": "9"
+    },
+    "138": {
+        "first_name": "Josephine",
+        "last_name": "Cosnosse",
+        "birth_date": "2-09-2003",
+        "grade": "9"
+    },
+    "139": {
+        "first_name": "Jovahna",
+        "last_name": "Solalindez",
+        "birth_date": "12-28-2001",
+        "grade": "10"
+    },
+    "140": {
+        "first_name": "Juhoan",
+        "last_name": "Cha",
+        "birth_date": "9-19-2004",
+        "grade": "8"
+    },
+    "141": {
+        "first_name": "Julianne",
+        "last_name": "Lee",
+        "birth_date": "4-18-2001",
+        "grade": "11"
+    },
+    "142": {
+        "first_name": "Katie",
+        "last_name": "Ha",
+        "birth_date": "2-11-2006",
+        "grade": "5"
+    },
+    "143": {
+        "first_name": "Kevin",
+        "last_name": "Ock",
+        "birth_date": "12-09-1999",
+        "grade": "11"
+    },
+    "144": {
+        "first_name": "Kayla",
+        "last_name": "Kwak",
+        "birth_date": "8-31-2003",
+        "grade": "9"
+    },
+    "145": {
+        "first_name": "Minkyu",
+        "last_name": "Chung",
+        "birth_date": "1-24-2002",
+        "grade": "11"
+    },
+    "146": {
+        "first_name": "Martin",
+        "last_name": "Chun",
+        "birth_date": "11-05-2000",
+        "grade": "11"
+    },
+    "147": {
+        "first_name": "Maxbryan",
+        "last_name": "Cosnosse",
+        "birth_date": "6-29-2001",
+        "grade": "11"
+    },
+    "148": {
+        "first_name": "Nandhakumar",
+        "last_name": "Saravana",
+        "birth_date": "",
+        "grade": "College"
+    },
+    "149": {
+        "first_name": "Michelle",
+        "last_name": "Woo",
+        "birth_date": "2-18-2001",
+        "grade": "11"
+    },
+    "150": {
+        "first_name": "Rachel",
+        "last_name": "Lee",
+        "birth_date": "",
+        "grade": "8"
+    },
+    "151": {
+        "first_name": "Soyul",
+        "last_name": "Choo",
+        "birth_date": "",
+        "grade": "k"
+    },
+    "152": {
+        "first_name": "Sue",
+        "last_name": "Chung",
+        "birth_date": "",
+        "grade": "11"
+    },
+    "153": {
+        "first_name": "Susie",
+        "last_name": "Choi",
+        "birth_date": "12-08-2006",
+        "grade": "5"
+    },
+    "154": {
+        "first_name": "Subin",
+        "last_name": "Yi",
+        "birth_date": "3-04-2001",
+        "grade": "10"
+    },
+    "155": {
+        "first_name": "John ",
+        "last_name": "Om",
+        "birth_date": "",
+        "grade": "11"
+    },
+    "156": {
+        "first_name": "Sophia ",
+        "last_name": "Kim",
+        "birth_date": "7-18-2001",
+        "grade": "10"
+    },
+    "157": {
+        "first_name": "Daniel",
+        "last_name": "Chung",
+        "birth_date": "1-27-2001",
+        "grade": "12"
+    },
+    "158": {
+        "first_name": "Jacob ",
+        "last_name": "Lee",
+        "birth_date": "",
+        "grade": ""
+    },
+    "159": {
+        "first_name": "Tony",
+        "last_name": "Jin",
+        "birth_date": "9-10-2002",
+        "grade": "9th"
+    },
+    "160": {
+        "first_name": "Jun Hyeong",
+        "last_name": "Kim",
+        "birth_date": "4-19-2004",
+        "grade": "9th"
+    },
+    "161": {
+        "first_name": "Alex ",
+        "last_name": "Lee",
+        "birth_date": "10-07-2005",
+        "grade": "7th"
+    },
+    "162": {
+        "first_name": "Yeonsu",
+        "last_name": "Shim",
+        "birth_date": "9-12-2006",
+        "grade": "6th"
+    },
+    "163": {
+        "first_name": "Amanda",
+        "last_name": "Hong",
+        "birth_date": "12-17-2005",
+        "grade": "6th"
+    },
+    "164": {
+        "first_name": "Eileen ",
+        "last_name": "Jung",
+        "birth_date": "12-18-2003",
+        "grade": "9th"
+    },
+    "165": {
+        "first_name": "Christine ",
+        "last_name": "Kwak",
+        "birth_date": "5-07-2001",
+        "grade": "11th"
+    },
+    "166": {
+        "first_name": "Eugene",
+        "last_name": "Kim",
+        "birth_date": "8-08-2002",
+        "grade": "10th"
+    },
+    "167": {
+        "first_name": "Eric ",
+        "last_name": "Kim",
+        "birth_date": "",
+        "grade": ""
+    },
+    "168": {
+        "first_name": "Jihun ",
+        "last_name": "Joo",
+        "birth_date": "3-20-2006",
+        "grade": "7th"
+    },
+    "169": {
+        "first_name": "Aza",
+        "last_name": "Trillo",
+        "birth_date": "10-02-2002",
+        "grade": "11th"
+    },
+    "170": {
+        "first_name": "Isabel",
+        "last_name": "Kim",
+        "birth_date": "",
+        "grade": "5th"
+    },
+    "171": {
+        "first_name": "Lindsey",
+        "last_name": "Chang",
+        "birth_date": "",
+        "grade": "6th"
+    }
+}

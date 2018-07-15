@@ -1,0 +1,114 @@
+{
+    "test_management": {
+        "test_type": {
+            "subject": [
+                "ACT",
+                "ISEE",
+                "PSAT",
+                "SAT I"
+            ],
+            "category": {
+                "SAT I": [
+                    "A",
+                    "B",
+                    "S"
+                ],
+                "ACT": [
+                    "A"
+                ],
+                "ISEE": [],
+                "PSAT": [
+                    "A"
+                ]
+            },
+            "number": {
+                "SAT I": [
+                    "1",
+                    "10",
+                    "11",
+                    "12",
+                    "13",
+                    "14",
+                    "16",
+                    "19",
+                    "2",
+                    "21",
+                    "23",
+                    "25",
+                    "26",
+                    "28",
+                    "29",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "9"
+                ],
+                "ACT": [
+                    "1"
+                ],
+                "ISEE": [],
+                "PSAT": [
+                    "1"
+                ]
+            },
+            "section": {
+                "SAT I": [
+                    "Math Calculator",
+                    "Math No Calculator",
+                    "Reading",
+                    "Writing and Language"
+                ],
+                "ACT": [
+                    "English",
+                    "Math",
+                    "Reading",
+                    "Science"
+                ],
+                "ISEE": [],
+                "PSAT": [
+                    "Math Calculator",
+                    "Math No Calculator",
+                    "Reading",
+                    "Writing and Language"
+                ]
+            },
+            "sat_subject": [
+                "Biology",
+                "Chemistry",
+                "Korean",
+                "None",
+                "None",
+                "None"
+            ]
+        },
+        "table_label": {
+            "answer_type": [
+                "Multiple Choice",
+                "Number Input"
+            ],
+            "question_type": [
+                "Addition",
+                "Division",
+                "Geometry",
+                "Multiplication",
+                "Passage Line",
+                "Subtraction",
+                "Vocabulary"
+            ],
+            "difficulty_level": [
+                "Easy",
+                "Hard",
+                "Medium"
+            ],
+            "correct_answer": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ]
+        }
+    }
+}
